@@ -5,7 +5,7 @@ In this project, we will perform analytics operations on an insurance database. 
 ## Contents
 
 - `Project_Medical_Insurance.ipynb`: Main analysis and modeling steps
-- `housing.csv`: The medical insurance charges dataset
+<!--- - `housing.csv`: The medical insurance charges dataset -->
 - `clean_data.csv`: Cleaned dataset
 
 ## How to Run
